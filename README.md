@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Garugulababu
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in ... hacking 
+- 🌱 I’m currently learning ... hacking 
+- 💞️ I’m looking to collaborate on ... any Hacker 
+- 
+- 📫 How to reach me ... insta @jinnu284
 
 <!---
 Garugulababu/Garugulababu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
